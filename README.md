@@ -1,3 +1,4 @@
+
 # AWS Secure Cloud Environment
 
 A hands-on project for the *Cloud Computing Fundamentals* course (CSNW3204), where I deployed and configured a secure AWS environment from scratch.
@@ -13,3 +14,5 @@ Full step-by-step documentation, screenshots, and reflection are in the attached
 
 ## Course
 CSNW3204 — Cloud Computing Fundamentals
+
+
